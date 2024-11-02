@@ -1,0 +1,36 @@
+<svg width="272" height="233" viewBox="0 0 272 233" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_df_5_21)">
+<ellipse cx="141.133" cy="109.941" rx="52" ry="32.3927" transform="rotate(-176 141.133 109.941)" fill="#A98BE3"/>
+</g>
+<mask id="mask0_5_21" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="91" y="38" width="102" height="102">
+<circle cx="142" cy="89.0001" r="50" transform="rotate(24 142 89.0001)" fill="url(#paint0_radial_5_21)"/>
+</mask>
+<g mask="url(#mask0_5_21)">
+<circle cx="142" cy="89.0001" r="50" transform="rotate(24 142 89.0001)" fill="url(#paint1_radial_5_21)"/>
+</g>
+<defs>
+<filter id="filter0_df_5_21" x="0.709412" y="0.921478" width="270.847" height="232.039" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="29" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_5_21"/>
+<feOffset dx="-5" dy="7"/>
+<feGaussianBlur stdDeviation="27.25"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.662745 0 0 0 0 0.545098 0 0 0 0 0.890196 0 0 0 0.53 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_21"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_21" result="shape"/>
+<feGaussianBlur stdDeviation="7.5" result="effect2_foregroundBlur_5_21"/>
+</filter>
+<radialGradient id="paint0_radial_5_21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(142 89.0001) rotate(90) scale(50)">
+<stop stop-color="#9D8ECE"/>
+<stop offset="0.5" stop-color="#9681B7"/>
+<stop offset="0.625" stop-color="#B0687C"/>
+<stop offset="0.75" stop-color="#CAC3BE"/>
+<stop offset="1" stop-color="#FDF0E8"/>
+</radialGradient>
+<radialGradient id="paint1_radial_5_21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(178.5 62.5001) rotate(128.66) scale(92.8453)">
+<stop stop-color="#F9E5E4"/>
+<stop offset="1" stop-color="#6D50BE"/>
+</radialGradient>
+</defs>
+</svg>
